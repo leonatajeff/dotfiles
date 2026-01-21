@@ -1,0 +1,12 @@
+# Alacritty stub
+#
+# [general]
+# import = [ "~/dev/dotfiles/alacritty/alacritty.toml" ]
+
+[window]
+padding = { x = 20, y = 20 }
+decorations = "Buttonless"
+
+[font]
+size=20
+
